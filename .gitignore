@@ -1,0 +1,15 @@
+*.tar
+*.gz
+.tmp
+.cache
+*.retry
+*.swp
+*.tar.gz
+verify*.yml
+verify*.yaml
+test*.yml
+test*.yaml
+test
+tar-backup/*
+*.log
+ansible.cfg
