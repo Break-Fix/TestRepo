@@ -13,3 +13,4 @@ test
 tar-backup/*
 *.log
 ansible.cfg
+inventory
